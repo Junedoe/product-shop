@@ -1,0 +1,9 @@
+* {
+    font-family: 'Karla', sans-serif;
+}
+.card-deck--mod {
+    margin-top: 3em;
+}
+.card--mod {
+    font-size: 2em;
+}
